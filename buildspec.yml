@@ -5,7 +5,7 @@ phases:
         - echo nothingbto do styles
 artifacts:
       files:
-        -index.html
-        -images/*
-        -styles/main.css
-        -favicon.ico
+        - index.html
+        - images/*
+        - styles/main.css
+        - favicon.ico
