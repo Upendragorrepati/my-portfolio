@@ -1,6 +1,6 @@
 version:0.1
-phases
-;
+
+phases:
 build:
   commands:
     -echo nothingbto do stylesheetar
@@ -8,4 +8,5 @@ build:
       files:
         -index.html
         -images/*
-        -styles/*
+        -styles/main.css
+        -favicon.ico
