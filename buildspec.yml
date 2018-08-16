@@ -2,7 +2,7 @@ version: 0.1
 phases:
 build:
   commands:
-    -echo nothingbto do stylesheetar
+    - echo nothingbto do stylesheetar
     atrifacts:
       files:
         -index.html
